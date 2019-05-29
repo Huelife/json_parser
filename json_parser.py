@@ -2,6 +2,6 @@
 
 import json
 
-with open('dataMay-28-2019.json', 'r') as jsonfile:
+with open(input('.json file name: '), 'r') as jsonfile:
   data_dict = json.load(jsonfile)
   print(json.dumps(data_dict,indent=2,sort_keys=True))
