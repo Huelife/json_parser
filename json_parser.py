@@ -3,3 +3,4 @@
 import json
 
 with open('dataMay-28-2019.json', 'r') as jsonfile:
+  data_dict = json.load(jsonfile)
