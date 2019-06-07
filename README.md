@@ -6,4 +6,5 @@ Simple JSON file parser
 3) The json file needs to be in the same folder.
 4) Run 'json_parser.py'.
 5) Enter the .json file name and type to be parsed.
-6) The program will run automatically afterwards.
+6) The file 'dataMay-28-2019.json' is included for testing.
+7) The program will run automatically afterwards.
